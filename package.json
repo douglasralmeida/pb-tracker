@@ -1,0 +1,20 @@
+{
+  "name": "pb-tracker",
+  "version": "1.0.0",
+  "description": "Dashboard para analise das visitas ao Portal da BH Sul",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Erro: teste nao especificado\" && exit 1"
+  },
+  "keywords": [
+    "inss",
+    "portal",
+    "bhsul"
+  ],
+  "author": "Douglas R Almeida",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  }
+}
